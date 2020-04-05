@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!-- File: custom-entry.aiml -->
+<!-- Author: Dr. Richard S. Wallace -->
+<!-- Last modified: February 22, 2020 -->
+<!--  -->
+<!-- This AIML file is part of the SAKSHAM 0.0.5 chat bot knowledge base. -->
+<!--  -->
+<!-- The SAKSHAM brain is Copyright &copy; 2020 by ALICE AI Foundation. -->
+<!--  -->
+<!-- The SAKSHAM brain is released under the terms of the GNU Lesser General -->
+<!-- Public License, as published by the Free Software Foundation. -->
+<!--  -->
+<!-- This file is distributed WITHOUT ANY WARRANTY; without even the  -->
+<!-- implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.   -->
+<!--  -->
+<!-- For more information see http://www.alicebot.org -->
+<!--  -->
+<category><pattern>WHERE DO I LIVE</pattern>
+<template>I don't know. Delhi maybe?</template>
+</category>
+<category><pattern>WHO IS MY FATHER</pattern>
+<template>Ajay Gupta.</template>
+</category>
+</aiml>

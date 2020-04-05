@@ -1,0 +1,5 @@
+0,IS ELEPHANT AN <STAR INDEX="2"/>,*,*,Yes.,learnf.aiml
+0,IS JAGUAR AN <STAR INDEX="2"/>,*,*,Yes.,learnf.aiml
+0,WHAT IS ELEPHANT,*,*,An animal.,learnf.aiml
+0,WHAT IS JAGUAR,*,*,An animal.,learnf.aiml
+0,WHAT IS AN ANIMAL,*,*,Elephant.,learnf.aiml

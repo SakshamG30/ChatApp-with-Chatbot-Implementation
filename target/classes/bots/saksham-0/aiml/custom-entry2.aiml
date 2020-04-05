@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<category><pattern>WHAT IS THE WEATHER TODAY</pattern>
+<template>Sorry, I can't predict that.</template>
+</category>
+<category><pattern>WHO IS MY MOTHER</pattern>
+<template>Sulbha Gupta.</template>
+</category>
+</aiml>
