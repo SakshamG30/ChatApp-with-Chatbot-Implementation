@@ -11,7 +11,8 @@ import java.util.LinkedHashMap;
     import java.util.Map;
 
 import org.alicebot.ab.Chat;
-import org.apache.commons.lang.StringUtils;
+//import org.apache.commons.lang.StringUtils;
+import org.apache.commons.lang3.StringUtils;
 
     public class MessageAction extends Chatbot{
 
@@ -42,9 +43,10 @@ import org.apache.commons.lang.StringUtils;
 				message= message + "@bot";
 			}
              
-        	 if(message.contains("@bot"))
+        	 if(message.contains("@bot")||message.contains("alice")||message.contains("Alice"))
         	 {
-        		 message = message.replace("@bot", "");
+        		 message = message.replace("@bot", ""); message = StringUtils.replaceOnceIgnoreCase(message, "Alice","");
+        	     message = StringUtils.replaceOnce(message, ",","");
         		 try {
         			 
         				String request = message;
