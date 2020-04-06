@@ -12,7 +12,7 @@ public class SendEmail{
 	public static void main(String args[])
 	
 	{
-		String to = "sakshamtest30@gmail.com";
+		String to = "sakshamg30@gmail.com";
 		String body= "hi";
 		sendMail(to,body,"YOLO");
 	}

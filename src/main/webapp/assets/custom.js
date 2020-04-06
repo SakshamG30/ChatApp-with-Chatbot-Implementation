@@ -27,6 +27,7 @@
         if( $("#userName").val() ) { // if user provides username
            $("#chatName").hide();
            $(".hideForm").show();
+           $('#demo').text($("#userName").val());
         }
     });
     $("#submitMessage").click(function() {

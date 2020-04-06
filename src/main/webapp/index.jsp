@@ -11,9 +11,9 @@
       <script src="https://js.pusher.com/4.1/pusher.min.js"></script>
       
     </head>
-    <body style="background-image: url(./wall.png); background-repeat: no-repeat;
+    <body style="background-image: url(./wall2.png); background-repeat: no-repeat;
   background-size: cover;">
-       <h1 style="text-align: center; color: white;font-family: Arial, Helvetica, sans-serif;">Welcome to the Chat Room</h1>
+       <h1 style="text-align: center; color: white;font-family: Arial, Helvetica, sans-serif;">Welcome <span id="demo">to M@IT Chat Room</span></h1>
         <div class="container" style="border: 3px solid white;width:65%;">
           <!--msgbox-->
           <div id="msgItems" class="container-fluid" style="background-color:white;">
