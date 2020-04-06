@@ -9,13 +9,6 @@ import javax.mail.internet.*;
 
 public class SendEmail{
 	
-	public static void main(String args[])
-	
-	{
-		String to = "sakshamg30@gmail.com";
-		String body= "hi";
-		sendMail(to,body,"YOLO");
-	}
 	/**
 	 * 
 	 */
