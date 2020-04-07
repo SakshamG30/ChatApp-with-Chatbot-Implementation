@@ -1,6 +1,6 @@
 # ChatApp-with-Chatbot-Implementation
 
-A maven project Chatroom for anonymous users with Chatbot Implementation, coupled with googled searching from Jsoup parsing. Maybe I would migrate to gradle some day.
+A maven project Chatroom for anonymous users with Chatbot Implementation, coupled with google searching from Jsoup parsing. Maybe I would migrate to gradle some day.
 
 Clone & Import it into your IDE as a maven project. Maybe add Ab.jar as an external jar if there is any error in JapaneseUtil classes.
 
